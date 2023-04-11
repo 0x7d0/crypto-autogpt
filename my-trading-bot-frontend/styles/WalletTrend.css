@@ -1,0 +1,13 @@
+.WalletTrend {
+    max-width: 30rem;
+    margin: 2rem auto;
+  }
+  
+  .WalletTrend .text-green-600 {
+    color: #34D399;
+  }
+  
+  .WalletTrend .text-red-600 {
+    color: #EF4444;
+  }
+  

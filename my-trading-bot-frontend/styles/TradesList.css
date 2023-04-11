@@ -1,0 +1,22 @@
+.TradesList {
+    max-width: 30rem;
+    margin: 2rem auto;
+  }
+  
+  .TradesList li {
+    border-bottom: 1px solid #e5e5e5;
+    padding: 0.5rem 0;
+  }
+  
+  .TradesList li:last-child {
+    border-bottom: none;
+  }
+  
+  .TradesList .text-green-600 {
+    color: #34D399;
+  }
+  
+  .TradesList .text-red-600 {
+    color: #EF4444;
+  }
+  

@@ -1,0 +1,9 @@
+.TradingPairsForm {
+    max-width: 30rem;
+    margin: 2rem auto;
+  }
+  
+  .TradingPairsForm button:not(:last-child) {
+    margin-right: 0.5rem;
+  }
+  
